@@ -42,8 +42,9 @@ Provenance: Douglas's table, sent Nov 5, 2026, ~1:52 AM CST, reproduced as given
 
 **7. Clostridium tetani, TT — HOLDS [H→D].** Formalin-inactivated tetanus toxin as toxoid vaccine and as universal carrier — standard, matches the toxoid work on file.
 
-**8. Cryptococcus neoformans / gattii — HOLDS as experimental, with the gattii gap [H→D / PARTIAL].**
-- Tested in the fungal analogues postulate filed Nov 5, 2026: GXM 90% / GalXM 10%, GXM-TT protection in mice, CRM197 semisynthetic M2 motif with modest protection, no fungal vaccines licensed for clinical use. *C. gattii* separately unverified in those sources — [GAP], not upgraded.
+**8. Cryptococcus neoformans / gattii — HOLDS as experimental [H→D].**
+- Tested in the fungal analogues postulate filed Nov 5, 2026: GXM 90% / GalXM 10%, GXM-TT protection in mice, CRM197 semisynthetic M2 motif with modest protection, no fungal vaccines licensed for clinical use.
+- Update, Nov 5, 2026, ~1:56 AM CST — the *C. gattii* gap in the original version of this file is now closed, one search, at Douglas's direction: GXM is common to all species in the *Cryptococcus neoformans/gattii* complex, the capsule in both species is mainly GXM and GalXM, and serotypes B and C are produced by *C. gattii*. The original [GAP] note stays above in the history, this update sits beside it, old-with-new. GXM-TT / CRM197 conjugate efficacy was in *C. neoformans* models — no *gattii*-specific conjugate efficacy is claimed here.
 
 ## Overall verdict
 **HOLDS as a comparative matrix at the 51% bar, with one correction to file beside it: the pneumococcal carrier cell.** Change that cell to CRM197 for PCV7 / PCV13 / PCV20 (Prevnar), with TT / DT noted only as carriers in other conjugate products, not as Prevnar carriers. All other rows hold as given. The "Danish numerical serotyping standard" note is filed as [PARTIAL] — the Danish system is a real serotyping system, but this table does not cite its source, and it is not re-verified here.
