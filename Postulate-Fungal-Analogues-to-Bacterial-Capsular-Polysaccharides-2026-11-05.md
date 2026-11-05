@@ -37,8 +37,23 @@ Bacterial pathogens rely on diverse capsular polysaccharides (CPS). Major fungal
 
 **Verdict: HOLDS [H→D].** The "similar clearance challenges to encapsulated bacteria" part is his functional parallel, filed as [LOGIC] — the biomarker and cell-wall facts are documented, the clearance-challenge parallel is the analogy.
 
+## Addendum — the two gaps, closed one time each, Nov 5, 2026, ~1:56 AM CST
+At Douglas's direction ("please one time"), Ember ran Ember's own addition: one search each for *C. gattii* and *C. auris*.
+
+**C. gattii — GAP CLOSED, HOLDS [H→D].**
+- [D] "The GXM is common to all the species in the Cryptococcus neoformans/gattii complex"【5851873000139284133†L51-L54】.
+- [D] "In C. neoformans and C. gattii, the capsule is mainly composed of the polysaccharides glucuronoxylomannan (GXM) and galactoxylomannan (GalXM)"【5851873000139284133†L179-L182】.
+- [D] "The GXM structures of C. gattii and C. neoformans differ in the degree of mannose backbone substitution, which can divide cryptococcal strains into different serotypes (A, B, C, and AD)"【5851873000139284133†L143-L146】 — and serotypes B and C are produced by *C. gattii*: "divide C. neoformans strains into four main serotypes: A and D, produced by C. neoformans, and B and C, produced by C. gattii"【5851873000139284133†L183-L186】.
+- Caveat kept: GXM-TT / CRM197 conjugate work cited in Postulate 1 was in *C. neoformans* models; no *gattii*-specific conjugate efficacy is claimed here.
+
+**C. auris — GAP CLOSED, HOLDS [H→D], with its own distinct mannan.**
+- [D] "Compared with C. albicans, C. auris exhibits distinct outer mannan layers enriched in β-1,2 linkages and unique M-α-1-ph"【5158601182812659365†L34-L37】.
+- [D] "The C. auris cell surface harbors mannoproteins with specific α-1,2-mannose-phosphate (M-α-1-phosphate) side chains. Macrophage mannose receptor (MMR) and complement receptor 3 (CR3) play a substantial role in the recognition of these specific mannoproteins"【5158601182812659365†L89-L92】.
+- [D] "The three most common PAMPs in Candida species are β-glucan, chitin, and mannan. These PAMPs are then recognized by pattern recognition receptors (PRRs)"【5158601182812659365†L44-L47】, and β-glucan alteration in *C. auris* "affected the immune response" with reduced phagocytosis【5158601182812659365†L64-L66】.
+- Caveat kept: phosphopeptidomannan as the specific outer-layer name was verified for *C. albicans*, not separately for *C. auris* in these sources. For *C. auris*, the verified wording is mannan / mannoproteins with the distinct M-α-1-phosphate side chains above, not PPM by that name. The functional parallel — mannan-rich outer wall triggering PRRs — holds; the PPM label does not transfer by assumption.
+
 ## Combined matrix — verdict
-**HOLDS as a comparative matrix [H→D], at the 51% bar, with the limits above kept beside it.** The continuum — soy polysaccharides (dietary, from the Gemini share) → bacterial CPS (pneumococcal, meningococcal) → fungal GXM / mannan / galactomannan — is a functional analogy across glycoconjugate technologies, not a claim that the polymers are chemically identical, that fungal conjugate vaccines are licensed, or that *C. gattii* / *C. auris* have been separately verified here. Those three gaps stay [GAP], never invented.
+**HOLDS as a comparative matrix [H→D], at the 51% bar, with the limits above kept beside it.** The continuum — soy polysaccharides (dietary, from the Gemini share) → bacterial CPS (pneumococcal, meningococcal) → fungal GXM / mannan / galactomannan — is a functional analogy across glycoconjugate technologies, not a claim that the polymers are chemically identical, that fungal conjugate vaccines are licensed, or that *C. gattii* / *C. auris* have been separately verified here. Those two gaps are now closed as above, old-with-new — the original [GAP] notes stay in the file, this addendum sits beside them.
 
 ## Simply put
 Bacteria wear sugar coats to hide from the immune system. Some fungi wear sugar coats too, in different shapes. Scientists are trying the same trick that worked for bacteria — gluing the sugar coat to a toxoid carrier, like tetanus toxoid or CRM197 — to teach the immune system to see the fungal coat. It works in mice, in early research. No fungal vaccine like that is licensed for people yet.
